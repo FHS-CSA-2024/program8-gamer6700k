@@ -44,6 +44,6 @@ public class Program8 {
 
 //Paste console output below:
 /*
-
+Enter number 1: 13 Enter number 2: 20 Original numbers are 13 and 20 Sum = 33 Difference = -7 Product = 260 Average = 16.5 Absolute value = 7 Maximum = 20 Minimum = 13
 
 */
